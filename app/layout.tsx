@@ -21,7 +21,7 @@ export default function RootLayout({
       <body>
         <Navbar />
         <div className="px-4">
-          <main className="max-w-[1140px] mx-auto  min-h-[calc(100vh-292px)]">
+          <main className="max-w-[1140px] mx-auto min-h-[calc(100vh-292px)]">
             {children}
           </main>
         </div>

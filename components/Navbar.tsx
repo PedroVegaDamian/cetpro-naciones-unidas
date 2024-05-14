@@ -15,7 +15,7 @@ export const Navbar = () => {
   };
 
   return (
-    <nav className="h-[100px] border border-[#E5E9F2] px-4">
+    <nav className="bg-white h-[100px] border border-[#E5E9F2] px-4">
       <div className="h-full lg:max-w-[1140px] flex justify-between items-center mx-auto">
         <Link
           href="/"
