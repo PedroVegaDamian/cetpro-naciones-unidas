@@ -17,7 +17,7 @@ Rediseño de actual página web de la institución [Cetpro Naciones Unidas](http
 
 [https://cetpro-naciones-unidas.vercel.app/](https://cetpro-naciones-unidas.vercel.app/)
 
-![Página Cetpro Naciones Unidas](https://github.com/PedroVegaDamian/cetpro-naciones-unidas/blob/main/assets/cetpro-naciones-unidas.vercel.app_.png)
+![Página Cetpro Naciones Unidas](https://raw.githubusercontent.com/PedroVegaDamian/cetpro-naciones-unidas/main/assets/cetpro-naciones-unidas.vercel.app_.png)
 
 ### Clona el repositorio e instala las dependencias
 
